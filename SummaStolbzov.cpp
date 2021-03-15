@@ -1,4 +1,4 @@
-//сумма столбцов матрицы
+//СЃСѓРјРјР° СЃС‚РѕР»Р±С†РѕРІ РјР°С‚СЂРёС†С‹
 #include <iostream>
 using namespace std;
 void summ(int** ar, int str, int col) {
