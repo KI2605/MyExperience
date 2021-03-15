@@ -1,4 +1,4 @@
-//остаток от деления
+//РѕСЃС‚Р°С‚РѕРє РѕС‚ РґРµР»РµРЅРёСЏ
 #include<iostream>
 using namespace std;
 void ost(int num,int del) {
