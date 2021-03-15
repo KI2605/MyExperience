@@ -1,4 +1,4 @@
-//самое длинное слово в строке
+//СЃР°РјРѕРµ РґР»РёРЅРЅРѕРµ СЃР»РѕРІРѕ РІ СЃС‚СЂРѕРєРµ
 #include <iostream>
 #include <string.h>
 using namespace std;
